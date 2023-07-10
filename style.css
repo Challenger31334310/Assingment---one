@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+
 .parent-head-sub-section {
     display: flex;
     align-items: center;
@@ -154,4 +155,23 @@ img {
 
 .center {
     margin-left: 50px;
+}
+
+.main-section-three {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1580px;
+    height: 70vh;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 5rem;
+}
+
+.section-three-special-img {
+    width: 310px;
+    height: 420px;
+    flex-shrink: 0;
+    margin-left: 100px;
 }
