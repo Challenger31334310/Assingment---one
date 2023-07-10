@@ -185,10 +185,12 @@ img {
 }
 .section-four{
     width: 1440px;
-height: 320px;
+height: 70vh;
 flex-shrink: 0;
 margin: 0 auto;
 margin-top: 6rem;
+
+
 }
 
 .all-paragraph-info{
@@ -199,4 +201,26 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 line-height: 30px;
+}
+.section-five{
+    background-image: url(Rectangle\ 9.png);
+    width: 1440px;
+height: 449px;
+flex-shrink: 0;
+margin: 0 auto;
+background-repeat: no-repeat;
+background-size: contain;
+}
+.section-five-info{
+   padding-top: 190px;
+   text-align: center;
+}
+input::placeholder{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-left: 13px;
 }
