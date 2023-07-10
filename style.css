@@ -175,3 +175,28 @@ img {
     flex-shrink: 0;
     margin-left: 100px;
 }
+.section-four-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.section-four-info{
+    text-align: center;
+}
+.section-four{
+    width: 1440px;
+height: 320px;
+flex-shrink: 0;
+margin: 0 auto;
+margin-top: 6rem;
+}
+
+.all-paragraph-info{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
