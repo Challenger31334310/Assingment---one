@@ -7,7 +7,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-   background-color: rgba(229, 84, 115, 0.1);
+    background-color: rgba(229, 84, 115, 0.1);
 }
 
 .flower-head-info {
@@ -53,65 +53,105 @@
 .head-image {
     margin-left: 50px;
 }
-.main-section-info{
+
+.main-section-info {
     text-align: center;
-    margin-top:5rem;
+    margin-top: 5rem;
 }
-#main-section-info-style{
+
+#main-section-info-style {
     color: #272727;
-text-align: center;
-font-family: Lato;
-font-size: 40px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
 }
-.main-section-info-style-common{
+
+.main-section-info-style-common {
     color: rgba(39, 39, 39, 0.60);
-text-align: center;
-font-family: Lato;
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: 30px;
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
 }
-.main-section-image-one{
+
+.main-section-image-one {
     width: 310px;
     height: 428px;
     margin-right: 20px;
     margin-top: 0rem;
 }
-#img-shadow-one{
+
+#img-shadow-one {
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
 }
-.main-section-image-two{
+
+.main-section-image-two {
     width: 370px;
-height: 370px;
-flex-shrink: 0;
-margin-right: 20px;
+    height: 370px;
+    flex-shrink: 0;
+    margin-right: 20px;
 
 }
-.main-section-image-three{
+
+.main-section-image-three {
     width: 314px;
     height: 471px;
     flex-shrink: 0;
 }
-.main-section-image{
- text-align: center;
+
+.main-section-image {
+    text-align: center;
 }
-#img-shadow-two{
+
+#img-shadow-two {
     border-radius: 300px 300px 0px 0px;
-background: rgba(5, 151, 160, 0.15);
+    background: rgba(5, 151, 160, 0.15);
 }
-#img-shadow-three{
+
+#img-shadow-three {
     border-radius: 300px 300px 0px 0px;
-background: rgba(71, 125, 17, 0.15);
+    background: rgba(71, 125, 17, 0.15);
 }
-.flower-name{
-    display: flex; 
-    align-items:center ;
+
+.flower-name {
+    display: flex;
+    align-items: center;
     justify-content: space-evenly;
     margin-top: 1rem;
     text-decoration: underline;
+}
+
+.main-section-two {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1440px;
+    height: 320px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 0 auto;
+    margin-top: 6rem;
+}
+
+.main-section-two-part-one {
+    margin-right: 9rem;
+}
+
+.main-section-two-part-two {
+    margin-right: 9rem;
+}
+
+img {
+    margin-left: 4rem;
+}
+
+.center {
+    margin-left: 50px;
 }
