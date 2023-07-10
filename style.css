@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    cursor: pointer;
+}
 
 
 .parent-head-sub-section {
@@ -223,4 +226,18 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 padding-left: 13px;
+}
+.footer-info{
+text-align: center;
+padding-top: 20px;
+color: white;
+padding-top: 5rem;
+}
+.footer-section{
+    background-color: #272727;
+    height: 40vh;
+   margin-top: 7rem;
+}
+span{
+    color: white;
 }
