@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.parent-head-sub-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flower-head-info {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.all-paragraph-info {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.head-btn {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 177px;
+    height: 64px;
+    border-radius: 8px;
+    background: #E55473;
+}
+
+.head-section-image {
+    width: 635px;
+    height: 800px;
+    flex-shrink: 0;
+}
+
+.head-image {
+    margin-left: 50px;
+}
