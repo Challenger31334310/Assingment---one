@@ -1,3 +1,6 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -93,6 +96,7 @@ body{
 #img-shadow-one {
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
+    padding: 2rem 2rem 1rem 2rem;
 }
 
 .main-section-image-two {
@@ -116,6 +120,7 @@ body{
 #img-shadow-two {
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
+    padding: 2rem 2rem 1rem 2rem;
 }
 
 #img-shadow-three {
