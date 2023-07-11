@@ -8,6 +8,35 @@
 body{
     cursor: pointer;
 }
+li:hover {
+    color: whitesmoke;
+  }
+  li {
+    margin-right: 20px;
+  }
+  .caintaner {
+    background-color: chartreuse;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    padding: 4px;
+  }
+  .fix {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    font-variant: small-caps;
+    font-size: 2.5rem;
+    margin-left: 20px;
+  }
+  .menu {
+    list-style: none;
+    display: flex;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
 
 
 .parent-head-sub-section {
